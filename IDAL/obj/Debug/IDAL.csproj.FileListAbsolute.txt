@@ -1,0 +1,14 @@
+C:\Users\adoijay\Desktop\JsegProject\IDAL\bin\Debug\CodematicDemo.IDAL.dll
+C:\Users\adoijay\Desktop\JsegProject\IDAL\bin\Debug\CodematicDemo.IDAL.pdb
+C:\Users\adoijay\Desktop\JsegProject\IDAL\bin\Debug\Maticsoft.Model.dll
+C:\Users\adoijay\Desktop\JsegProject\IDAL\bin\Debug\Maticsoft.Model.pdb
+C:\Users\adoijay\Desktop\JsegProject\IDAL\obj\Debug\CodematicDemo.IDAL.dll
+C:\Users\adoijay\Desktop\JsegProject\IDAL\obj\Debug\CodematicDemo.IDAL.pdb
+C:\Users\Adoijay\Desktop\JsegProject\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\开发\JsegProject\IDAL\bin\Debug\CodematicDemo.IDAL.dll
+D:\开发\JsegProject\IDAL\bin\Debug\CodematicDemo.IDAL.pdb
+D:\开发\JsegProject\IDAL\bin\Debug\Maticsoft.Model.dll
+D:\开发\JsegProject\IDAL\bin\Debug\Maticsoft.Model.pdb
+D:\开发\JsegProject\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\开发\JsegProject\IDAL\obj\Debug\CodematicDemo.IDAL.dll
+D:\开发\JsegProject\IDAL\obj\Debug\CodematicDemo.IDAL.pdb

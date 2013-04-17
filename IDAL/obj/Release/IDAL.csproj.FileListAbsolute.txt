@@ -1,0 +1,4 @@
+C:\Users\adoijay\Desktop\JsegProject\IDAL\bin\Release\CodematicDemo.IDAL.dll
+C:\Users\adoijay\Desktop\JsegProject\IDAL\bin\Release\Maticsoft.Model.dll
+C:\Users\adoijay\Desktop\JsegProject\IDAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\adoijay\Desktop\JsegProject\IDAL\obj\Release\CodematicDemo.IDAL.dll
